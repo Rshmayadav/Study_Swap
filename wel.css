@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+header{
+    background: url("wel.jpeg");
+    height: 100vh;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+/* .nav-area{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+.nav-area li{
+    display: inline-block;
+}
+.nav-area li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: poppins;
+    font-size: 16px;
+} */
+.logo img{
+    width: 300px;
+    float: left;
+    height: auto;
+}
+.welcome-text{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin: 20% 30%;
+    text-align: center;
+}
+.welcome-text h1{
+    text-align: center;
+    color: orangered;
+    text-transform: uppercase;
+    font-size: 65px;
+}
+.salute-text{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin: 20% 30%;
+    text-align: center;
+    text-align: center;
+    color: orangered;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+.salute-text a{
+    border: 1px solid rgb ;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    display: inline-block;
+    color: rgb(42, 14, 98);
+}
+.salute-text a:hover{
+    background: #fff;
+    color: #333;
+}
+/* .content h2{
+    color: orangered;
+    -webkit-text-fill-color: #fff;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #fff;
+    font-family: montserrat;
+    font-size: 80px;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+    text-align: center;
+    line-height: 0.9;
+}
+.content h2 b{
+    color: orangered;
+    -webkit-text-fill-color: transparent;
+    font-size: 65px;
+} */
